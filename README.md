@@ -1,12 +1,11 @@
-Experiment No. 4
+# Title : Bitwise Operator
 
-Aim: : To study and implement bitwise operators in C++.
+# Aim: :
+To study and implement bitwise operators in C++.
 
-Tools Required:
+#Tools Required: Visual Studio Code (VS Code)
 
-Visual Studio Code (VS Code)
-
-Theory:
+# Theory:
 
 Bitwise operators perform operations on the binary representation of data. These operators are commonly used in low-level programming, embedded systems, and for optimizing certain algorithms.
 
@@ -41,7 +40,7 @@ int result5 = a << 1; // Left Shift: 1010 → 10
 
 int result6 = a >> 1; // Right Shift: 0010 → 2
 
-Conclusion:
+# Conclusion:
 
 By performing this experiment:
 
