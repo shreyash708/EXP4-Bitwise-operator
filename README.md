@@ -3,7 +3,7 @@
 # Aim: :
 To study and implement bitwise operators in C++.
 
-#Tools Required: Visual Studio Code (VS Code)
+# Tools Required: Visual Studio Code (VS Code)
 
 # Theory:
 
